@@ -1,4 +1,3 @@
-package msts;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -75,3 +74,4 @@ public class AverageCalculator {
         } while (true);
     }
 }
+
