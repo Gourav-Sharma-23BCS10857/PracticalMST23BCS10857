@@ -1,5 +1,3 @@
-package msts;
-
 import java.util.*;
 
 class EmptyStudentListException extends Exception {
@@ -80,3 +78,4 @@ public class StudentListApp {
         sc.close();
     }
 }
+
